@@ -66,5 +66,6 @@ Cake Tool
 
 Package Reference
 ```xml
-<PackageReference Include="SaythonMQ" Version="1.0.0" />
+<PackageReference Include="SaythonFramework" Version="1.0.0" />
+<PackageReference Include="SaythonLibrary" Version="1.0.0" />
 ```
