@@ -21,6 +21,3 @@ The [Saython Technology](https://github.com/maurana/Saython) created by Maurana 
 * `Saython MQ`
 * `Saython QL`
 
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
