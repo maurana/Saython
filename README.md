@@ -28,6 +28,12 @@ A very cool Database Framework for all kinds of databases on .NET Core & .NET Fr
 
 > Installation
 
+Package Reference
+```xml
+<PackageReference Include="SaythonFramework" Version="1.0.0" />
+<PackageReference Include="SaythonLibrary" Version="1.0.0" />
+```
+
 Package Manager
 ```bash
 PM> Install-Package SaythonFramework -Version 1.0.0
@@ -62,10 +68,4 @@ Cake Tool
 ```bash
 #tool nuget:?package=SaythonFramework&version=1.0.0
 #tool nuget:?package=SaythonLibrary&version=1.0.0
-```
-
-Package Reference
-```xml
-<PackageReference Include="SaythonFramework" Version="1.0.0" />
-<PackageReference Include="SaythonLibrary" Version="1.0.0" />
-```
+``` 
