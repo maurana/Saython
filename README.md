@@ -27,28 +27,44 @@ The [Saython Technology](https://github.com/maurana/Saython) created by Maurana 
 A very cool Database Framework for all kinds of databases on .NET Core & .NET Framework technology
 
 > Installation
+
+Package Manager
 ```bash
-/// Package Manager
 PM> Install-Package SaythonFramework -Version 1.0.0
 PM> Install-Package SaythonLibrary -Version 1.0.0
+```
 
-/// .NET CLI
+.NET CLI
+```bash
 > dotnet add package SaythonFramework --version 1.0.0
 > dotnet add package SaythonLibrary --version 1.0.0
+```
 
-/// Paket CLI
+Paket CLI
+```bash
 > paket add SaythonFramework --version 1.0.0
 > paket add SaythonLibrary --version 1.0.0
+```
 
-/// Script & Interactive
+Script & Interactive
+```bash
 > #r "nuget: SaythonFramework, 1.0.0"
 > #r "nuget: SaythonLibrary, 1.0.0"
+```
 
-/// Cake Addin
+Cake Addin
+```bash
 #addin nuget:?package=SaythonFramework&version=1.0.0
 #addin nuget:?package=SaythonLibrary&version=1.0.0
+```
 
-/// Cake Tool
+Cake Tool
+```bash
 #tool nuget:?package=SaythonFramework&version=1.0.0
 #tool nuget:?package=SaythonLibrary&version=1.0.0
+```
+
+Package Reference
+```xml
+<PackageReference Include="SaythonMQ" Version="1.0.0" />
 ```
