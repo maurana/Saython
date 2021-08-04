@@ -21,3 +21,6 @@ The [Saython Technology](https://github.com/maurana/Saython) created by Maurana 
 * `Saython QL`        **Coming Soon !** 
 * `Saython ML`        **Coming Soon !** 
 
+## Saython Framework & Saython Library
+A very cool Database Framework for all kinds of databases on .NET Core & .NET Framework technology
+
