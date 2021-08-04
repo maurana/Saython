@@ -11,7 +11,7 @@
 
 # Saython
 The [Saython Technology](https://github.com/maurana/Saython) created by Maurana on .NET Core and .NET Framework
-> Technology list :
+> Technology List of Saython
 * `Saython Framework`
 * `Saython Library`
 * `Saython Science`
@@ -21,3 +21,6 @@ The [Saython Technology](https://github.com/maurana/Saython) created by Maurana 
 * `Saython MQ`
 * `Saython QL`
 
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
