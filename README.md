@@ -12,12 +12,12 @@
 # Saython
 The [Saython Technology](https://github.com/maurana/Saython) created by Maurana on .NET Core and .NET Framework
 > Technology List of Saython
-* `Saython Framework` [v1.0.0](https://www.nuget.org/packages/SaythonFramework)
-* `Saython Library`   [v1.0.0](https://www.nuget.org/packages/SaythonLibrary)
+* `Saython Framework` [Available v1.0.0](https://www.nuget.org/packages/SaythonFramework)
+* `Saython Library`   [Available v1.0.0](https://www.nuget.org/packages/SaythonLibrary)
 * `Saython Science`   **Coming Soon !** 
 * `Saython Socket`    **Coming Soon !** 
 * `Saython AI`        **Coming Soon !** 
-* `Saython MQ`        [v1.0.0](https://www.nuget.org/packages/SaythonMQ)
+* `Saython MQ`        [Available v1.0.0](https://www.nuget.org/packages/SaythonMQ)
 * `Saython QL`        **Coming Soon !** 
 * `Saython ML`        **Coming Soon !** 
 
