@@ -87,7 +87,7 @@ Add the connection string according to the database used in *appsettings.json*
 
 Set connection on Startup in *Startup.cs*
 ```c#
-namespace Project
+namespace Application
 {
     public class Startup
     {
