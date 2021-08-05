@@ -28,6 +28,14 @@ A very cool Database Framework for all kinds of databases on .NET Core & .NET Fr
 <a href="https://www.nuget.org/packages/SaythonMQ"><img src="https://img.shields.io/nuget/dt/SaythonMQ?color=red&style=flat-square" alt="Total Downloads"></a>
 </p>
 
+> Supported DBMS SQL and NO SQL for now
+- MySQL
+- PostgreSQL
+- SQL Server
+- ODBC
+- SQL Lite **Coming Soon !**
+- MongoDB **Coming Soon !**
+
 > Installation
 
 Package Reference
