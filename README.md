@@ -6,7 +6,8 @@
 </p>
 
 # Saython
-The [Saython Technology](https://github.com/maurana/Saython) Karya Anak Bangsa created by Maulana Hasanudin
+The [Saython Technology](https://github.com/maurana/Saython) Karya Anak Bangsa created by Maulana Hasanudin. Nama Saython terinspirasi dari kalimat Ta’Awudz yakni أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِِ yang artinya "Aku berlindung kepada Allah dari syaithan yang terkutuk"
+
 > Technology List of Saython
 * `Saython Framework` [Available v1.0.0](https://www.nuget.org/packages/SaythonFramework)
 * `Saython Library`   [Available v1.0.0](https://www.nuget.org/packages/SaythonLibrary)
