@@ -10,7 +10,7 @@ The [Saython Technology](https://github.com/maurana/Saython) Karya Anak Bangsa c
 
 *Saython name was inspired by the Ta'Awudz sentence, namely أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِِْ*
 
-*Which means "I seek refuge in Allah from the accursed Satan (Syaithan)". With the intention of Saython Technology can protect your code from the accursed Satan (Syaithan)*
+*Which means "I seek refuge in Allah from the accursed Satan (Syaithan)". With the intention of Saython Technology can protect your program code from the accursed Satan (Syaithan) such as Bugs and Errors*
 
 > Technology List of Saython
 * `Saython Framework` [Available v1.0.0](https://www.nuget.org/packages/SaythonFramework)
