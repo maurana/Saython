@@ -80,9 +80,12 @@ Add the connection string according to the database used in *appsettings.json*
 
 - **MySQL connection Example**
 ```json
- "ConnectionStrings": {
-    "connstr": "server=localhost; port=3306; database=example; user=root; password=password"
- } 
+{
+  ...
+  "ConnectionStrings": {
+     "connstr": "server=localhost; port=3306; database=example; user=root; password=password"
+  }
+}
 ```
 
 Set connection on Startup in *Startup.cs*
