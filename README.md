@@ -91,6 +91,7 @@ namespace Project
 {
     public class Startup
     {
+        // Add static property declaration
         public static string connStr
         {
             get;
@@ -141,6 +142,7 @@ namespace Project
                 endpoints.MapControllers();
             });
 
+            // Add initialize property
             connStr = Configuration.GetConnectionString("connstr");
         }
     }
