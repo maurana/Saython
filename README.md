@@ -23,6 +23,7 @@ The [Saython Technology](https://github.com/maurana/Saython) Karya Anak Bangsa c
 A very cool Database Framework for all kinds of databases on .NET Core & .NET Framework technology
 <p align="left">
 <a href="https://www.nuget.org/packages/SaythonMQ"><img src="https://img.shields.io/badge/netcore-v3.1.0-brightgreen" alt="Tech"></a>
+<a href="https://www.nuget.org/packages/SaythonMQ"><img src="https://img.shields.io/badge/netframework-v4.6.0-blueviolet" alt="Tech"></a>
 <a href="https://www.nuget.org/packages/SaythonMQ"><img src="https://www.fuget.org/packages/SaythonMQ/badge.svg" alt="Build Status"></a>
 <a href="https://www.nuget.org/packages/SaythonMQ"><img src="https://img.shields.io/nuget/v/SaythonMQ" alt="Latest Stable Version"></a>
 <a href="https://www.nuget.org/packages/SaythonMQ"><img src="https://img.shields.io/nuget/dt/SaythonMQ?color=red&style=flat-square" alt="Total Downloads"></a>
