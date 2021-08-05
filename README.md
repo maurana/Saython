@@ -75,3 +75,13 @@ Cake Tool
 #tool nuget:?package=SaythonLibrary&version=1.0.0
 ``` 
 > Settings for use
+Add the connection string according to the database used in **appsettings.json**
+
+- MySQL connection Example
+```json
+{
+ "ConnectionStrings": {
+    "connstr": "server=localhost; port=3306; database=example; user=root; password=password"
+ } 
+}
+```
