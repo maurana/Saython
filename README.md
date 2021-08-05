@@ -8,7 +8,7 @@
 # Saython
 The [Saython Technology](https://github.com/maurana/Saython) Karya Anak Bangsa created by Maulana Hasanudin
 
-*Nama brand Saython terinspirasi dari kalimat Ta’Awudz yakni أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِِْ*
+*Nama Saython terinspirasi dari kalimat Ta’Awudz yakni أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِِْ*
 
 *Yang artinya "Aku berlindung kepada Allah dari syaithan yang terkutuk"*
 
