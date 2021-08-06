@@ -8,11 +8,11 @@
 # Saython
 The [Saython Technology](https://github.com/maurana/Saython) a Karya Anak Bangsa created by [Maulana Hasanudin](https://www.linkedin.com/in/founder-wacara). This technology is written in C# programming and runs on .NET technology.
 
-*Saython name was inspired by the Ta'Awudz sentence, namely*
+*Saython name was inspired by the Ta'Awudz sentence, namely :*
 
 *أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِِْ*
 
-*Which means "I seek refuge in Allah from the accursed Satan (Syaithan)". With the intention of Saython Technology can protect your program code from the accursed Satan (Syaithan) such as Bugs and Errors*
+*Which means "I seek refuge in Allah from the accursed Satan (Syaithan)". With the intention of Saython Technology can protect your program code from the accursed Satan (Syaithan) such as Bugs and Errors. Saython technology reminds you that Satan is the real enemy of mankind.*
 
 > Technology List of Saython
 * `Saython Framework` [Available v1.0.0](https://www.nuget.org/packages/SaythonFramework)
@@ -27,7 +27,7 @@ The [Saython Technology](https://github.com/maurana/Saython) a Karya Anak Bangsa
 
 
 ## Saython Framework & Saython Library
-A very cool Database Framework for all kinds of databases on .NET Core & .NET Framework technology
+A very cool Database Framework for all kinds of databases on .NET Core & .NET Framework technology.
 <p align="left">
 <a href="https://www.nuget.org/packages/SaythonMQ"><img src="https://img.shields.io/badge/netcore-v3.1.0-brightgreen" alt="Tech"></a>
 <a href="https://www.nuget.org/packages/SaythonMQ"><img src="https://img.shields.io/badge/netframework-v4.6.0-blueviolet" alt="Tech"></a>
@@ -93,7 +93,7 @@ Add the connection string according to the database used in *appsettings.json*
   }
 }
 ```
-Fill in the connection string of the `connstr` key according to the database you are using
+Fill in the connection string of the `connstr` key according to the database you are using.
 
 Set connection on Startup in *Startup.cs*
 ```c#
