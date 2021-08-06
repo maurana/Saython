@@ -83,7 +83,7 @@ Cake Tool
 
 Add the connection string according to the database used in *appsettings.json*
 
-- **MySQL connection Example**
+- **Database connection example**
 ```json
 {
   "ConnectionStrings": {
@@ -91,6 +91,7 @@ Add the connection string according to the database used in *appsettings.json*
   }
 }
 ```
+Fill in the connection string of the `connstr` key according to the database you are using
 
 Set connection on Startup in *Startup.cs*
 ```c#
