@@ -12,7 +12,7 @@ The [Saython Technology](https://github.com/maurana/Saython) a Karya Anak Bangsa
 
 *أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِِْ*
 
-*Which means "I seek refuge in Allah from the accursed Satan (Syaithan)". With the intention of Saython Technology can protect your program code from the accursed Satan (Syaithan) such as Bugs and Errors. Saython technology reminds you that Satan is the real enemy of mankind.*
+*Which means "I seek refuge in Allah (The One Almighty God) from the accursed Satan (Syaithan)". With the intention of Saython Technology can protect your program code from the accursed Satan (Syaithan) such as Bugs and Errors. Saython technology reminds you that Satan is the real enemy of mankind.*
 
 > Technology List of Saython
 * `Saython Framework` [Available v1.0.0](https://www.nuget.org/packages/SaythonFramework)
