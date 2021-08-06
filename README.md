@@ -79,7 +79,7 @@ Cake Tool
 #tool nuget:?package=SaythonFramework&version=1.0.0
 #tool nuget:?package=SaythonLibrary&version=1.0.0
 ``` 
-> Settings for use
+> Setup Now
 
 Add the connection string according to the database used in *appsettings.json*
 
