@@ -6,7 +6,7 @@
 </p>
 
 # Saython
-The [Saython Technology](https://github.com/maurana/Saython) Karya Anak Bangsa created by Maulana Hasanudin
+The [Saython Technology](https://github.com/maurana/Saython) a Karya Anak Bangsa created by [Maulana Hasanudin](https://www.linkedin.com/in/founder-wacara). This technology is written in C# programming and runs on .NET technology.
 
 *Saython name was inspired by the Ta'Awudz sentence, namely أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِِْ*
 
